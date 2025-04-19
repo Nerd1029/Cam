@@ -45,3 +45,4 @@ Cam is a friendly little command-line tool that helps developers:
 
 Cam was built by Nerd1029, a passionate open-source developer, inventor, and fan of cool tools.
 
+![Cam Logo](./camlogo.png)
