@@ -26,6 +26,7 @@ Cam is a friendly little command-line tool that helps developers:
 
 ## 🛠️ Requirements
 - Python 3.13.2
+- pip
 - Runs in the terminal
 
 ---
