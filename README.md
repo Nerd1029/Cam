@@ -1,5 +1,7 @@
 # Cam 💻📦
 
+**Your support is greaatly appreciated! Please comment any feedback in the discussions section!**
+
 Cam is a friendly little command-line tool that helps developers:
 
 - Package project info into a `.json` file
