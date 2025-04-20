@@ -1,0 +1,24 @@
+## 🚀 Cam v3 Release Notes — **IMPORTANT!!!** ⚠️
+
+> **Version:** `v3 beta`  
+> **Status:** Public Preview
+
+### 🔥 What’s New:
+- 🌳 **Animated Tree Intro** — Cam now welcomes you with a growing tree animation to set the vibe!
+- 💬 **Exit Command** — You can now type `exit` to cleanly end the session.
+- 🧠 **Loop Rework** — Replaced infinite loop with a supermassive number to keep things running smoothly and safely.
+- 💼 **Improved Core Functionality** — File packaging, updating, opening, installing, and uninstalling now more refined.
+
+---
+
+### ⚠️ **IMPORTANT NOTE**
+
+For Cam v3 beta to run correctly, you must have the `CustomErrors` module downloaded and placed in the **same folder** as your `cam.py` file.
+
+📦 You can find `CustomErrors.py` on Cam’s GitHub here:  
+👉 [https://github.com/Nerd1029/Cam](https://github.com/Nerd1029/Cam)
+
+Make sure it’s saved as:
+    Cam v3 beta/
+├── cam.py
+├── CustomErrors.py
